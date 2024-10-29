@@ -1,0 +1,16 @@
+/* Activity 1: step 1 */
+
+body {
+  background-color:  blue;
+  color:  white;
+  font-family: monospace;
+}
+
+h1 {
+  font-weight:  normal;
+}
+
+/* Activity 1: step 2 */
+.red {
+  background-color: red;
+}

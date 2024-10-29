@@ -1,0 +1,28 @@
+body {
+    background-color: #E3DEDE;
+    font-family: 'Xanh Mono', monospace;
+    padding: 50px;
+    cursor: url('imgs/smile.png'), auto;
+}
+
+h1{
+    text-align: center;
+    color: #146AEC;
+    font-size: 120px;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+p{
+    color: #101010;
+    font-size: 24px;
+    line-height: 140%;
+}
+
+a {
+    color: hotpink;
+}
+
+a:visited {
+    text-decoration: none;
+}
