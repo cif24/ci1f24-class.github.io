@@ -1,5 +1,5 @@
 // Step 1: Add an Alert
-$(document).ready(function() {alert("[hello earthlings]"); })
+// $(document).ready(function() {alert("[hello earthlings]"); })
 
 
 // Step 2: Make elements draggable
@@ -13,14 +13,14 @@ $(document).ready(function() {$("#diamond").draggable(); })
 // Step 3: Make elements disappear on click
 // this hides our UFO when we click on our bananas
 // maybe you'd want to add text or an indicator that an element is clickable
-$(document).ready(function() {
-    $("#bananas").click(function(){
-    $("#ufo").hide(); }); 
-    })
+// $(document).ready(function() {
+//     $("#bananas").click(function(){
+//     $("#ufo").hide(); }); 
+//     })
 
 
 // Step 4: Make elements disappear on hover
-// this hides our UFO when we click on our bananas
+// this hides our UFO when we hover over it 
 // notice that the rest of our elements move - this can be fixed in our CSS
 // $(document).ready(function() {
 //     $("#ufo").hover(function(){

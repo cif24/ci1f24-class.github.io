@@ -1,4 +1,4 @@
-/* Demo 1: Click button to append content*/
+/* Demo Part 1: Click button to append content*/
 /* body {
   background-color:  black;
   color:  white;
@@ -33,7 +33,7 @@ h1 {
 
 
 
-/* Demo 2: Set the position of the new element randomly */
+/* Demo Part 2: Set the position of the new element randomly */
 /* body {
   background: rgb(0,254,218);
   background: linear-gradient(90deg, rgba(0,254,218,1) 0%, rgba(0,91,218,1) 46%, rgba(119,205,203,1) 100%);
@@ -62,9 +62,9 @@ h1 {
 
 
 
-/* Demo 3: Random Background Color From Array On Click */
+/* Demo Part 3: Random Background Color From Array On Click */
 
-body {
+/* body {
   background-color: #647e6b;
  }
  
@@ -87,4 +87,4 @@ body {
    cursor: pointer;
    opacity: .8;
    transition: 8ms ease-out;
- }
+ } */
